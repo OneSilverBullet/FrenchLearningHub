@@ -1,0 +1,1313 @@
+# 法语听力真题词汇分类
+
+> 按词性与用途分为五类。已统一格式、合并重复词条，并修正明显的拼写、词性和释义错误。
+
+## 快速导航
+
+- [常用词组](#一常用词组)
+- [动词](#二动词)
+- [名词](#三名词)
+- [副词](#四副词)
+- [形容词](#五形容词)
+
+---
+
+## 一、常用词组
+
+- J’ai jamais…：口语说法，完整形式是 Je n’ai jamais…，表示“我从来没有……”
+- porter une caméra cachée：随身携带或佩戴隐藏摄像机
+- essayer de faire quelque chose：尝试做某事
+- remettre en question：质疑、重新审视
+- encore plus：更加、甚至更
+- où j’ai vécu：我生活过的地方
+- par opposition：相比之下、与之相反
+- C’est particulier：挺特别的、比较少见
+- J’ai travaillé à la mine：我在矿场/矿山工作过
+- durant mes étés：在几个暑假期间
+- au baccalauréat：读本科的时候
+- angoisser quelqu’un：使某人焦虑
+- mettre en place：建立、实施、设置
+- subir le stress：承受压力
+- se rendre dans un endroit：前往某个地方
+- avoir quelque chose à effectuer：有某事需要完成
+- par rapport à：与……相比
+- à l’époque：在那个时代
+- faire peur à quelqu’un：表示让人害怕
+- avoir tendance à：有……倾向
+- trier l’information：筛选信息
+- mettre du temps à faire quelque chose：花费时间做某事
+- rattraper une information：纠正错误信息
+- au départ：一开始
+- faire leur métier：做好本职工作
+- faire attention：更加谨慎
+- prendre votre tension artérielle：测量血压
+- près de la moitié de：将近一半的……
+- provenir de：来自，源自
+- mettre en vedette：突出展示
+- avoir lieu：举行，发生；举行发生
+- à travers tout le pays：遍布全国
+- en présence de：在……出席的情况下
+- jongler entre A et B：在A和B之间兼顾，周旋
+- suspendre ses consultations：暂停接诊
+- dans un souci éthique：处于伦理考虑
+- dans un souci de transparence：出于透明考虑
+- rabattre de la clientèle：招揽顾客
+- servir de fonds de commerce：成为招揽生意的卖点
+- donner l’image de quelqu’un qui…：给人一种印象
+- aller plus vite que les autres：比其他人进展得更快
+- à longueur de journée：整天，一天到晚
+- s’énerver de + 动词原形：因为…而恼火
+- face au monde extérieur：面对外界，在外人面前
+- gagner sa vie：谋生，赚钱养自己
+- craindre que + 虚拟式：担心
+- prendre quelqu’un pour…：把某人当成……
+- travailler de ses mains：用双手劳动
+- parmi + 名词：在……之中
+- en compter：其中有…，数得着…
+- véhiculer des émotions：传递情感
+- être de trop：多余
+- consister à + 动词原形：在于…，就是要…
+- tout en + 现在分词：在…的同时
+- au mieux de ses compétences：尽可能发挥自己的能力
+- à la fois：同时
+- donner naissance à：孕育出
+- aller chercher un paquet：找一个包裹
+- avoir des projets：有安排/有计划
+- avoir envie de + 动词：想做某事
+- correspondre à：符合，与……相符
+- refaire la peinture：重新刷漆
+- vieux / vieille：老旧的
+- pour l'instant：目前；目前 / 暂时 / 现在阶段
+- en effet：确实如此
+- à l'angle de la rue
+- plutôt bien：相当不错
+- présenter quelqu’un à…：把某人介绍给…
+- ne pas être au bout de…：还没有结束
+- ne pas en revenir：难以置信
+- cela dépendra de…：这取决于
+- s’ouvrir sur…：通向
+- s’occuper de…：负责
+- dans le coin：在附近，在这一带
+- laverie automatique：自助洗衣店
+- habiter un quartier：居住在某一个街区
+- à l’antenne：上节目
+- être ravi de…：很高兴
+- être limitrophe de…：与…接壤
+- raconter une histoire：讲述一个故事
+- se rendre à…：前往
+- par vos soins：由贵方处理
+- passionner quelqu'un：让某人着迷
+- être confronté à…：面临…，遭遇…；面临……，遭遇……
+- vais être en retard：会迟到
+- au distributeur de billets：自动取款机
+- se retrouver sur…：出现在……上；落到……上
+- faire ses bagages：打包，收拾行李
+- je n’ai pas encore…：我还没有……
+- ce serait sympa que…：如果 ……会太棒了
+- convenir d'une date：约定一个日期
+- ainsi que：也
+- Je t’appelle pour te dire que…：我打电话是为了告诉你……
+- Il paraît que + 句子：听说
+- dès que：一……就……
+- à plus tard：回头见
+- ça te va：你方便吗？
+- passer prendre ta sœur：顺路去接你妹妹
+- venir dîner à la maison：回家里吃完饭
+- croiser quelqu’un：偶然碰见某人
+- sur le palier：在楼梯平台上
+- Je trouve dommage que + 虚拟式：我为……表示遗憾
+- faire davantage de choses ensemble：一起做更多的事情
+- tout le temps：总是
+- sans parler de…：更别提
+- s’entendre bien avec quelqu’un：与某人相处的好
+- rend des petits services：帮忙
+- compter sur quelqu’un：指望某人
+- entre autres：其中包括
+- s’engager à + infinitif：承诺做某事
+- en fonction de…：按照
+- les partis durant leur campagne：竞选中的政党
+- les efforts qu’on entreprend：付出的努力而获得报酬
+- Tu verras, c’est facile：你会看到，这很简单
+- durant les phases de décollage et d’atterrissage：在起飞阶段和降落阶段
+- de même 的核心意思是：同样地 / 也是如此 / 一样地。
+- Je dois reconnaître que…：我必须承认…
+- regagner les vestiaires：返回更衣室
+- être prévu：被预计，预计会发生
+- obliger quelqu’un à faire quelque chose：迫使某人做某事
+- aux horaires habituels：在正常时间
+- fermeture exceptionnelle：临时关闭，特殊关闭
+- donner des friandises：给零食
+- sont incapables de s’arrêter：停不下来
+- être favorable à quelque chose：支持某事 / 赞成某事。
+- ne perds plus de temps à…：别再浪费时间做……
+- compter les espèces：数现金
+- au lieu de：代替,而不是
+- avoir lieu de：有理由做某事
+- avoir tort：犯错
+- régler les problèmes：解决问题
+- tous ces discours：所有的这些说法，话术
+- être à la mode：跟上时尚
+- viser à：目标是、旨在
+- tenter de：try to / 尝试
+- les acteurs responsables：相关责任方
+- des représentants：代表
+- lié à：与……相关
+- mettre fin à quelque chose：终结某事，结束某事
+- élaboré à partir de pétrole：由石油制成 / 基于石油制造
+- risquent de + infinitif：有……的风险 / 可能会……
+- des mesures fiscales：税收措施
+- arriver à faire quelque chose：成功做到某事
+- s'imposer comme：确立自己作为……的地位
+- à longueur de + 名词：在整个过程中不断，反复
+- en voie de：正在……过程中 / 处于……趋势中；正在。。。的过程中
+- des milliers de：成千上万的
+- le moyen de faire partie d'un groupe：融入群体的一个方式
+- adhérer à quelque chose：支持参与某事
+- tirer la conclusion que…：得出……的结论
+- faire jouer la concurrence：让竞争机制发挥作用
+- tenter de + infinitif：尝试做某事
+- voire même：甚至
+- en partie：部分地，一定程度上
+- Il était temps：早该这样了，是时候了
+- un certain nombre de：相当数量的
+- en amont：在上游，生产端
+- en aval：在下游
+- mais en disant que finalement：到头来却说
+- Même pas：甚至没有，连……都不到
+- en tous les cas：无论怎么样
+- ce n'était pas gagné：这本来不容易
+- C’est mal le connaître：那你就是不了解他
+- aurait pu + infinitif：本来可能会
+- mettre des limites à…：给 … 设置限制
+- le pouvoir en place：当前掌权者
+- les débats sur…：关于…的辩论
+- sans entrave：不受阻碍，不受限制
+- de tous bords：各种阵营的，各个立场的
+- se renvoyer qqch au visage：互相把某事情甩到对方脸上
+- la volonté de + infinitif：做某事的意愿
+- alimentées par…：被…滋养
+- en question：所讨论的，相关的
+- le pilotage de drones：无人机驾驶
+- le vol de drones：无人机飞行
+- La carte des zones：区域地图
+- site sensible：敏感地点
+- rester éloigné de…：与…保持距离
+- faire des quarts de travail：轮班、值班
+- se porter à la défense de qqn：站出来维护某人
+- composer avec la maladie：应对疾病，与疾病相处
+- faire preuve de：证明
+- en grande pompe：盛大的，隆重的
+- porteuse de…：承载…的，推动…的
+- De surcroît：另外
+- est autorisé：被允许
+- est interdit：被禁止
+- la France métropolitaine：法国本土
+- portail en ligne：网上的门户网站
+- à proximité de…：在…的附近
+- du contexte canadien：加拿大的情况
+- au sein de…：在…内部
+- à peu près：差不多，几乎
+- partout ailleurs：其他所有地方
+- sans relâche：不停歇的
+- a su + infinitif：成功做到，懂得如何做到
+- revenir aux sources：回归本源
+- être enceinte：怀孕
+- être essoufflé(e)：气喘吁吁
+- tenir debout：站着， 保持站立
+- faire de l'anémie：有贫血
+- du diabète de grossesse：妊娠糖尿病
+- c’est l'enfer de + 动词原形：做某件事简直是地狱
+- se sentir concerné par…：觉得某事与自己有关
+- une question de moyens：一个经济能力的问题
+- en cas d'infraction
+- un entretien d’embauche：招聘面试
+- Signaler que le rapport est incomplet：指出报告不完整
+- compte rendu：报告
+- à savoir les trois dernières：也就是，最后三个
+- comme convenu：按照约定、如之前商定的那样。
+- établir un devis：做一份估价单
+- un devis：常用装修，维修，工程服务
+- les travaux：工程，施工，维修工作
+- émettre quelques réserves：提出一些保留意见，不是完全同意
+- monter en grade：升职
+- ou bien：或者，另一种可能
+- tout de suite：马上，立刻。
+- sans doute：毫无疑问
+- au fond de vous-même：在你内心深处
+- en même temps：话又说回来
+- il n’y a pas de raison：没什么问题，应该没事
+- sauf que：实际上，但是实际上
+- c’est pire que…：比 … 更糟糕
+- comme le raconte…：正如…的报道
+- tout un tas de… ：一大堆…，很多…
+- la plupart de…：大多数
+- du point de vue environnemental：从环境的角度来看
+- sans que + subjonctif：在没有..的情况下
+- sans que les chercheurs ne puissent déceler la cause avec exactitude
+- Quels que soient les problèmes, il faut continuer：无论问题是什么
+- quels que soient ：无论…是什么
+- se rendre au plus près de：来到…身边
+- d’autant plus si l’on considère que…：如果我们考虑到……，就更是如此。
+- faire partie de…：属于……的一部分。
+- Porter / Mettre：穿，戴
+- augmenter de 20 %
+- diminuer de 30 %
+- régresser de plus de 70%
+- déceler la cause
+- déclencher une réaction
+- chambre d’amis：客房
+- créer du lien：建立联系
+- une bouffée：一口，一阵
+- une bouffée d’air frais：一口新鲜空气
+- un combat de chaque instant：每时每刻的战斗
+- une course contre…：与……赛跑 / 对抗……
+- la production d’anticorps：抗体的产生
+- mettre en avant：强调，突出，提出
+- réagir à…：对……产生反应。
+- faire l’unanimité：获得一致同意；达成一致
+- au sein de：在…内部
+- le corps médical：医学界
+- la réponse immunitaire：免疫反应
+- suivre le modèle de…：遵循…的模式，以…为模板
+- soutenir que…：主张，认为
+- être à l’origine de…：是…的原因
+- effectuer des recherches：进行研究
+- les pesticides agricoles：农业杀虫剂
+- la survie des écosystèmes：生态系统的延续
+- fabriqué à partir de…：由…制成
+- contourner ce problème：绕开这个问题，规避这个问题
+- dirigés par…：由…领导
+- prendre du temps à faire quelque chose：花费…时间做…
+- résister à + 名词：抵抗…，耐受…
+- combiner plusieurs qualités：结合多种优点
+- respectueux de…：尊重…的，对…友好的
+- peiner à faire quelque chose：做某事很难
+- créer l’illusion que…：造成一种…的错觉
+- en pleine forêt：在森林深处 / 在森林中央
+- nid d’abeilles：蜂巢
+- se dire que + 句子：心想… / 心里觉得 …
+- vous vous dites：你对自己说，你心里想
+- mourir d’envie de faire quelque chose：非常想做……事情，特别想做某事
+- être dû à…：是由于……造成的
+- Il est vrai que…：确实，的确
+- Mener une lutte contre…：与……斗争
+- la pénurie de soignants：医护人员的短缺
+- faire face à：面对，应对
+- venir en aide à quelqu’un：帮助某人
+- en vue de + infinitif：为了……，以……为目的
+- se fixer un objectif：设定一个目标
+- redonner un cadre：重新提供一个框架（稳定的，有保障的，工作生活环境）
+- passer de A à B：把A变成B
+- À titre de comparaison：作为比较/为了对比
+- en moyenne：平均来说
+- D’après：依据，按照
+- venir de + 动词原形：刚刚做了……
+- en verre：玻璃材质的
+- avec exactitude：精确地，准确地
+- sur roulettes：带轮子的
+- à ciel ouvert：露天的
+- affoler quelqu’un：使某人惊慌 / 吓到某人
+- être opérationnel / opérationnelle：可运行的、可使用的、正常开放的
+- faire planer le soupçon sur…：对于…事情产生怀疑
+- La multiplication de …：……的增加
+- production d'énergie：能源生产
+- pour l'immense majorité des Français：对于大多数法国人而言
+- franchir le pas：迈出关键的一步
+- la mise en œuvre：实施、执行、落实
+- par essence：本质上
+- glisser vers…：逐渐滑向
+- prendre vos dispositions：做好安排 / 提前安排好
+- en conséquence：因此、相应地、根据这个情况
+- Solliciter une aide financière：申请/请求经济援助
+- signaler son départ：告知自己的离开
+- Rembourser un prêt d'argent：偿还一笔贷款
+- Réclamer son argent：要回自己的钱
+- opter pour une reconversion professionnelle：选择职业转型
+- opter pour：选择
+- une reconversion professionnelle：职业转型
+- repartir à zéro：重新开始
+- la perte de stabilité financière：金融稳定性的缺失
+- trouver une satisfaction professionnelle：寻找职业满足感
+- correspond mieux à ses passions et talents：更符合才能
+- mises en avant：突出
+- les prouesses individuelles：个人壮举
+- Mais sur le terrain：在现场
+- en ce jour de rentrée：在开学日
+- à sa guise：随自己的意思 / 随自己方便 / 想怎么来就怎么来
+- à terme：长远来看 / 到最后 / 从长期来看
+- se faire rare 是固定表达：：变得稀少、越来越少见
+- montrer que…：显示 / 表明……
+- être enregistrées：被记录到
+- en vigueur：正在生效、有效中
+- en milieu scolaire：在学校环境中
+- prévenir le décrochage scolaire：预防辍学
+- faciliter l'accès aux diplômes et à la qualification：帮助获得文凭和资格
+- sécuriser les parcours de formation：保障培训路径
+- avoir tendance à + infinitif：有……的趋势
+- en dépit de + 名词：尽管…… 等于malgré
+- dresser un constat：作出一个判断 / 总结出一个现象
+- la sieste en entreprise：公司里的午睡、职场午休睡眠
+- une forme de paresse：一种懒惰
+- gagner du terrain 是固定表达，字面是“赢得地盘”，引申为：逐渐扩大影响 / 越来越流行 / 越来越被接受
+- avoir du plomb dans l’aile 是一个习语。字面：翅膀里有铅。
+- peiner à + infinitif：难以做某事，费力做某事
+- ouvrir la voie à quelque chose：为……打开道路 / 为……铺路 / 使……成为可能
+- l’inclusion des femmes：女性的纳入
+- mettre à l’épreuve：使……经受考验 / 测试……的能力
+- relier A à B：连接 A 和 B
+- se porter mal：状况不好、不景气
+- ont reculé：下降
+- par rapport à…：与……相比
+- faire la lumière sur quelque chose：查明某事、弄清真相、揭露真相
+- Où sont passés…?：他们去哪了？
+- quelque chose à part entière：一个完全独立/真正意义上的东西
+- à part entière：完整的、独立的、真正意义上的
+- peser sur…：压在……上 / 威胁着……
+- une menace pèse sur…：某种威胁笼罩着…… / 某事威胁着……
+- de première nécessité：第一必需的、基本生活必需的
+- transmettre quelque chose à quelqu’un
+- sillonner le pays
+- insuffler de l’énergie à une équipe：：给一个团队注入活力
+- se heurter à…：碰到，碰到某种苦难
+- franchir la barre de…：突破……大关
+- sensibiliser le public：提高公众意识 / 唤起公众关注
+- à travers…：通过……
+- en faveur de…：为了支持…… / 有利于……
+- être généreux envers quelqu’un 对某人慷慨
+- à lui seul：单凭它一个 / 它本身就
+- en quête de：寻求
+- apprendre à lire：学会阅读，学会识字
+- les enfants pauvres：贫穷的孩子
+- À bord de…：在……上 / 乘坐……
+- transformer A à partir de B：用 B 改造成 A
+- rendre quelque chose + adjectif：使某物变得……
+- apporter quelque chose à quelqu’un：把某物带给某人
+- un frein à…：对……的阻碍
+- ne pas conduire à：不会导致 / 不一定带来
+- viser à faire quelque chose：旨在做某事
+- au sein des équipes：在团队内部
+- apporter un véritable bénéfice：带来真正的好处
+- gagner du terrain：取得进展， 扩大影响，逐渐普及
+- se tailler une place：给自己占据一席之地 / 成功获得一个位置
+- une place de choix：一个重要位置 / 显眼位置 / 受欢迎的位置
+- faire un carton：大获成功，非常受欢迎，卖爆了
+- le débat public：公共辩论，公共讨论
+- les décideurs politiques：政治决策者
+- les attentes de la population：民众期待
+- entretenir les auditeurs sur un sujet：向听众谈论某个话题 / 给听众介绍某个主题
+- en voie de disparition：濒临灭绝的
+- se diriger vers：朝着…样子的系统发展
+- dériver de：源自、来自
+- se faire piquer：被蜇
+- basculer dans…：突然进入某种状态、转向某种局面
+- guerre civile：内战
+- au cours de…：在……期间
+- prendre de l’ampleur：扩大、增强、越来越明显
+- un coup de foudre 原意是“雷击，一见钟情
+- goûter à quelque chose：尝试某事、体验某事
+- battre de l’aile：发展不顺
+- l’arrêt total du remboursement：完全停止报销
+- mettre qn/qch sur la sellette：让某事在被质疑的位置上
+- tournent en rond：绕圈
+- à la mode：很流行，很热门，很受关注
+- élire domicile à…：在……定居 / 落脚 / 安家
+- n’avoir rien à faire là：不该在那里 / 跟那里毫无关系
+- faire n’importe quoi：胡来、乱做、不按规矩来
+- enlever toutes les erreurs：去除所有错误
+- il est formé pour…：它被训练来……
+- Inauguré l'an dernier：去年落成 / 去年启用
+- exhorter à faire qch：强烈呼吁/敦促做某事。
+- en faveur des：为了……声援
+- disposer de…：拥有、具备
+- sur place：在当地
+- du moins：至少
+- figurer sur…：出现在……上
+- être en proie à…：受到……的困扰，陷入到……
+- mettre sur pied：建立、创办、搭建、做出来
+- être en plein essor：正在蓬勃发展 / 快速增长
+- être légion：很多，非常普遍
+- être prisé par…：受到……重视、喜爱。
+- amener quelque chose quelque part：把某物带到某地
+- fonds collectés：被筹集的资金
+- en plein air：在露天，在户外
+- se contenter de faire quelque chose：满足于做某事
+- à travers：通过
+- l’échange culturel：文化交流
+- démocratiser l'accès à…：让……的获取更加普及、更加平等
+- insuffler le goût de…：培养/激发对……的兴趣
+- avoir pour ambition de + infinitif：目标是…… / 志在……
+- inciter quelqu’un à faire quelque chose：鼓励/促进某人做某事
+- deux fois plus de… que…：是……的两倍多 / 比……多一倍
+- initier la formalisation：开始正式化流程
+- faire du kayak；划皮划艇 / 划独木舟类活动
+- On pourrait faire du kayak ensemble.；我们可以一起去划皮划艇。
+- faire du canoë；划独木舟
+- C’est une bonne occasion de découvrir la nature en faisant du canoë.
+- faire du paddle / du stand-up paddle；玩桨板
+- Le paddle est assez facile pour les débutants.
+- faire de la voile；帆船运动
+- Un stage de voile peut être intéressant en été.
+- faire de la plongée；潜水
+- J’aimerais essayer la plongée, mais avec un moniteur.
+- faire du rafting；漂流
+- Le rafting peut être amusant, mais il faut respecter les règles de sécurité.
+- faire du parapente；滑翔伞
+- Le parapente permet de profiter d’une vue magnifique.
+- faire du deltaplane；悬挂式滑翔 / 滑翔翼
+- Le deltaplane est impressionnant, mais il faut être bien encadré.
+- faire du planeur；乘滑翔机 / 滑翔机运动
+- Faire du planeur, c’est une activité originale pour découvrir le ciel autrement.
+- faire un saut en parachute；跳伞
+- Un saut en parachute, c’est une expérience unique, mais assez chère.
+- faire de l’escalade；攀岩
+- L’escalade permet de développer la confiance en soi.
+- faire de la randonnée；徒步
+- La randonnée est une activité accessible à tout le monde.
+- faire du VTT；骑山地自行车
+- Faire du VTT en groupe, c’est plus sûr et plus motivant.
+- faire de l’équitation；骑马
+- L’équitation permet de se rapprocher des animaux.
+- faire de la spéléologie；洞穴探险
+- La spéléologie est originale, mais il faut être accompagné par un professionnel.
+- faire de l’accrobranche；树上攀爬 / 高空绳索公园
+- L’accrobranche est une activité amusante pour sortir de sa zone de confort.
+- faire du ski；滑雪
+- On peut commencer par une piste facile.
+- faire du ski de fond；越野滑雪
+- Le ski de fond est moins dangereux que le ski alpin.
+- faire du snowboard；滑雪板
+- Le snowboard demande un peu d’équilibre.
+- faire de la raquette；穿雪鞋徒步
+- La raquette est une bonne activité d’hiver au Québec.
+- faire du patinage；滑冰
+- Le patinage est une activité agréable en hiver.
+- libre arbitre individuel：个人自由意志
+- laisser entendre：暗示，透露出，让人理解为
+- J’avoue que…：我承认
+- mais parfois：但是有时候
+- à l’étroit：狭窄的 / 局促的 / 挤的
+- préférer A à B：比B，更喜欢A
+- à l’occasion de…：在……之际 / 因为……活动 / 借……机会
+- à la circulation：对交通 / 对车辆通行
+- mises en place：被设置好的 / 被安排好的
+- repose avant tout sur：主要基于…… / 首先依靠…… / 核心在于……
+- mettre en exergue：强调，突出，凸显
+- au détriment de：以牺牲……为代价，损害……
+- témoigner de：体现出，显示出，反映出
+- mise en garde：警告，提醒，告诫
+- se caractériser par：以……为特征，表现为……
+- sans réserve：毫无保留地
+- rester bloqué：一直被卡住
+- rejoindre quelqu’un：去找某人 / 会合 / 加入某人
+- en sortant du boulot：下班出来的时候
+- mal estimer：错误估计 / 低估
+- dès que possible：尽快，一有可能就
+- avoir du retard：迟到 / 晚点
+- au moins：至少
+- être coincé：被困住 / 卡住
+- on bouge：我们动了 / 有动静了
+- en rupture de stock：缺货
+- prendre effet：生效
+- prendre l'air：出去呼吸新鲜空气 / 透透气
+- s'asseoir ensuite：然后坐下来
+- jusqu'à nouvel ordre：持续到另行通知；直到另行通知
+- prise en charge：接管、照护、接待并负责；费用承担（依语境）
+- marquer l'arrêt：停靠，停站
+- est désormais accessible：现在已经可以使用
+- tenir compte de：考虑到，把…考虑进去，注意到
+- être en télétravail：远程办公
+- rencontrer un problème：遇到问题
+- rien ne fonctionne：什么都不能工作
+- déposer une réclamation：提出一个申诉， 反映问题
+- Il n’y a pas lieu de ……：没有必要进一步……
+- à propos de：与……有关的
+- avoir un retour：得到回复
+- à fond：开到最大
+- c’est exagéré de vouloir…：想要……是过分的
+- sur le sable：在沙滩上
+- tenir quelqu’un éveillé 表示“让某人保持清醒”
+- admission de patients：接收病人、病人入院
+- accès réduit：限制进入、缩短开放时间
+- soins intensifs：重症监护
+- maladie contagieuse：传染病
+- unités non critiques：非重症病区
+- coordonner directement avec les superviseurs infirmiers：与护理主管协调
+- mettre en œuvre：实施、执行
+- inspection des bagages：行李检查
+- avec effet immédiat：立即生效
+- découler de：源于、由……导致
+- normes révisées：修订后的标准
+- Cela découle de A et non de B.；这是由于 A，而不是由于 B。
+- avant l’embarquement：登机前
+- ajustement du flux：人流调节、客流调整
+- forte affluence：人流密集、客流高峰
+- à l’étranger：在国外
+- documents rares：珍贵文献、稀有资料
+- refléter des considérations de préservation：反映出对保存、保护的考虑
+- variations d’humidité：湿度变化
+- armoires à climat contrôlé：恒温恒湿保存柜
+- collections contemporaines：现代藏书
+- privilèges d’emprunt：借阅权限
+- se déplacer en personne：亲自前往
+- demander des extraits numérisés：申请数字化节选
+- sous réserve de：以……为条件，须经过……
+- l’examen des conservateurs：馆藏管理员的审核
+- en échange de：以……作为交换
+- coupures d’électricité：停电
+- tranches horaires：不同时间段
+- pendant cet intervalle：在这段时间内
+- être admissible à：有资格获得
+- crédits de facturation：账单抵扣、账单优惠
+- l’approvisionnement de base：基本电力供应
+- relatif à：与……有关的
+- entrer en vigueur：生效，开始实施
+- consulter l’avis：查阅通知
+- assurer la conformité：确保符合规定
+- nouveau trimestre：在新学期
+- maintenance planifiée：计划内维护，定期维护
+- affecter la disponibilité：影响可用性
+- avertir de：警告、提醒……
+
+## 二、动词
+
+- propager：传播、散布
+- se divertir：娱乐、消遣、玩得开心；例：Nous sortons pour nous divertir.我们出去放松娱乐。
+- impressionner：给……留下深刻印象；使……佩服、震撼；例：Il veut impressionner ses collègues.他想给同事留下深刻印象。
+- gonfler：膨胀充气
+- maigrir：变瘦，减轻体重
+- jongler：杂耍
+- se passer：发生进行
+- apporter：带来
+- intervenir：发言，参与节目介入；发言，介入，干预
+- tricher：作弊
+- prévenir：提醒，提前提醒
+- prôner：提倡，主张
+- livrer：运送
+- se conformer：遵从、符合、顺应
+- élaborer：制定、起草
+- rivaliser：竞争
+- s'exiler：去国外发展，比partir更强，被迫离开，流亡
+- se perdre：迷失
+- se relayer：轮班
+- sauvegarder：保护
+- ralentir：减慢
+- se multiplier：增多、繁殖、增加
+- percevoir：感知
+- manifester：表明
+- se coiffer：整理发型
+- cacher：隐藏
+- supprimer：取消
+- déprimer：心情低落
+- rappeler：提醒；回电话
+- se retrouver：聚集，聚会，碰面
+- se concerter：协商
+- lasser：使厌烦，使疲惫
+- concerner：涉及
+- se diversifier：变得多样化
+- déborder：溢出，满出来
+- signaler：指出
+- persuader：说服
+- alourdir：使得…更沉重
+- révéler：揭露了
+- renforcer：加强了
+- loger：安置
+- doubler：翻倍
+- émettre：排放
+- repasser：熨
+- plier：折叠
+- concevoir：设计构思
+- subsister：继续存在，残留
+- régresser：下降，退步，减少
+- déceler：察觉，发现，查明
+- empêcher：阻止
+- déclencher：触发，引发
+- errer：流浪
+- réviser：复习
+- s’étirer：拉长，延伸
+- contourner：绕过，同义词éviter， résoudre
+- se dégrader：退化、恶化、降解
+- se propager：传播
+- convier：邀请，等同于inviter
+- occulter：掩盖，遮蔽
+- investir：投资，进驻
+- rédiger：写
+- entendre：想要，打算
+- décrypter：解读，看懂
+- stigmatiser：污名化
+- planer：在空中盘旋，悬浮
+- solliciter：请求，申请，寻求某物；请求、征求、寻求
+- résorber：消除、缓解、吸收掉
+- fonder：创立，建立
+- s’affaisser：下沉，塌陷，沉降
+- envahir：入侵、涌入、占满。；侵入，占据，蔓延到某处
+- se reproduire：繁殖
+- peupler：使……有居民/有种群
+- repeupler：重新增加种群，重新放养
+- s’enfoncer：陷入、下沉、沉入
+- bondir：猛增、暴涨、跳升。
+- s’affoler：慌乱、失控、疯狂起来
+- transmettre：传递，传授，传播
+- sillonner：走遍，穿梭于，到处奔走；穿行于，走遍
+- insuffler：灌输，注入，激发，赋予
+- parcourir：走遍、穿行于、跑遍
+- incarner：体现，代表，化身为
+- garantir：保证
+- contester：质疑，反对，争议
+- entraîner：导致，引起
+- animer：使活跃，推动，激发
+- enrayer：阻止，遏制；阻止、遏制、制止
+- divertir：娱乐，使人放松
+- diffuser：播放、传播、播出
+- favoriser：促进，有利于
+- multiplier：增加
+- promouvoir：推广
+- ternir：使失去光彩，损害形象
+- louer：称赞
+- relever：帮助重建
+- amasser：募集
+- ramasser：捡起、收集
+- défiler：一个接一个的经过，排队通过
+- retirer：移走、拿掉
+- redynamiser：重新带来活力
+- soulever：激发
+- élire：选
+- revenir：回来；回顾
+- prévoir：提前安排 / 预先计划
+- articuler：组织，表达，链接几个观点
+- mêler：混合，结合
+- amorcer：开始，启动，引发
+- exiger：要求，需要；强制要求
+- emporter：打包带走
+- suspendre：暂停
+- consulter：查看 / 查阅
+- atterrir：降落
+- permettre：允许
+- accéder：访问
+- redémarrer：重启
+- renvoyer：邮寄回去
+- indiquer：告知，指出
+- s’engager：承诺，签订协议
+- externaliser：外包
+- imposer：强制实施
+- résilier：取消、终止合同或服务
+
+## 三、名词
+
+- une constellation de…：字面是“一个星群”，这里比喻一群、一个由许多人组成的圈子或网络
+- des intellectuels：知识分子
+- des universitaires：大学学者、高校研究人员
+- de la pseudoscience：伪科学
+- des activités d’infiltration：渗透活动、卧底行动、秘密潜入活动
+- une idée reçue：普遍接受但未必正确的观念、成见、固有看法
+- les fascistes et les nazis：法西斯分子和纳粹分子
+- une communauté très soudée：一个联系紧密的社区；关系紧密的社区、团结的小群体；不过这个说法有点像英语 close-knit community 的直译。更自然的法语通常是：une communauté très soudée 或 une communauté unie。
+- Un milieu ouvrier：工人环境；工人阶层的环境、工人家庭背景milieu 在这里指成长或生活环境。Il vient d’un milieu ouvrier.他出身于工人家庭。
+- Une bouffée d’air frais：一口新鲜空气；一股新鲜空气；让人耳目一新的事物既可以是字面意思，也经常用于比喻。Cette nouvelle collègue est une bouffée d’air frais.这位新同事给团队带来了新气象。
+- Des habitants：社区居民；居民、当地住户；单数是 un habitant / une habitante。Les habitants du quartier.这个街区的居民。
+- Un soudeur：焊工；男焊工
+- une soudeuse：焊工；女焊工；这里不是“焊接机器”，而是女性职业称呼；焊接机通常叫 un poste à souder。
+- Des activités en plein air：室外活动；户外活动J’aime les activités en plein air, comme la randonnée.我喜欢徒步之类的户外活动。
+- une fière Est-Ontarienne：一个自豪的安大略东部女性
+- Un amour de jeunesse：年轻时的恋情、初恋不一定严格指“第一个恋人”，也可以指青春时期喜欢过的人。；例：Elle était mon amour de jeunesse.；她是我年轻时的恋人。
+- Un ami d’enfance：儿时的男性朋友、发小ami 是男性朋友。
+- Une amie d’enfance：儿时的女性朋友、发小amie 是女性朋友。
+- Cet été-là：那年夏天、那个夏天；这里的 -là 表示“那个”，通常指过去提到的某个特定夏天。；例：Cet été-là, nous sommes partis en France.那年夏天，我们去了法国。
+- une grande bousculade：严重的拥挤、推挤
+- les difficultés de circulation：交通困难、道路拥堵
+- le stationnement：停车
+- les particuliers：个人、普通居民
+- le maire：市长
+- une autoroute：高速公路
+- d’affronter：面对
+- une avalanche d’informations：雪崩一样的信息
+- les rumeurs les plus folles：最荒谬的谣言
+- des ballonnements：腹胀、胀气
+- un long-métrage：长篇电影
+- réalisateurs：导演
+- un thérapeute ordinaire：普通的治疗师
+- de la gêne / de la honte：尴尬，羞耻
+- une paresseuse / un crâneur：懒人，爱炫耀的人
+- un album pour enfants：儿童绘本
+- un trait de crayon：画出的线条，笔触
+- la littérature de jeunesse：儿童文学
+- un chef-d’œuvre：杰作
+- la taille en dessous：更小的尺寸
+- le frigidaire est vide：冰箱空了
+- une serviette：毛巾
+- un lieu de vie：居住空间
+- la vie active：职场生活
+- un chef：上司
+- les locaux：办公场所
+- une découverte：新事物，发现
+- le temps：天气；时间
+- une véranda：阳光房
+- une salade：沙拉
+- un buffle：水牛
+- des choses comme ça：诸如此类的东西
+- un chéquier：支票簿
+- un jeu de société：桌游
+- un copain / une copine：伙伴
+- un drame：激烈争吵
+- les baignoires：浴缸
+- article：物品
+- les ballons：球
+- une pièce de théâtre：戏剧
+- un neveu：侄子；外甥
+- deux places pour le théâtre：两张戏票
+- La personne interrogée：被采访的人
+- odeurs de cuisine：厨房气味
+- un double de mes clés：备用钥匙
+- l'anonymat：匿名
+- une préoccupation prioritaire：优先关注的事项
+- un secteur：领域；行业
+- le comité de parents：家长委员会
+- la taille des classes：班级规模
+- décollage：起飞
+- atterrissage：降落
+- vestiaires：更衣室
+- la voix：声音
+- les bassins：泳池，水池
+- une dépense：开销
+- le premier tiroir du buffet：餐具柜子的第一个抽屉
+- la fondation：基金会
+- le rassemblement：集会，会议，大会
+- un traité：条约
+- la chronique：评论，专栏
+- la fréquentation des salles obscures：电影院上座率
+- des salles obscures：影院
+- une embellie：天气好转，可以延伸为 情况好转
+- les auditoires / les spectateurs：观众
+- les téléspectateurs：电视观众
+- les exploitants：运营商
+- les distributeurs：分销商
+- avant la pandémie：在疫情之前
+- les tièdes：不冷不热的人
+- prix du jury à Cannes：戛纳评审团奖
+- le choc：震惊
+- les plus douées：最有才华的
+- des coraux marins：海洋珊瑚
+- coraux：珊瑚
+- marins：海洋
+- La séquestration：固定，封存，隔离，存储
+- disparition：消失灭绝
+- la faune：动物群
+- la flore：植物群
+- partenaires financiers：资金合作伙伴
+- bilan：成果
+- Le braconnage et la chasse：偷猎和狩猎
+- extinction des espèces：物种灭绝
+- arbustes：灌木
+- espèces endémiques：特有物种
+- indigènes：本地种
+- la faune prospère：动物群繁荣发展
+- la primauté de l'intermédiaire：中介的优先性
+- une impasse：僵局
+- l'échec des arguments：论证的失败
+- l'interrogation：追问
+- les animaux sauvages：野生动物
+- l'existence：存在
+- une certaine manière：特定的方式
+- une tromperie：骗局 n
+- les lobbys：利益集团
+- une obsession：迷恋
+- l'étiquetage：标签
+- la détente：扳机；放松
+- l'heure d'été：夏令时
+- la BU：la bibliothèque universitaire
+- des séances：活动
+- un amphithéâtre：大阶梯教室
+- une manifestation：不仅仅是游行示威，还有活动的意思
+- lieu：地点
+- moyens：经济条件，财力，钱
+- stagiaire：实习生
+- un logement：房子
+- une affirmation：一种说法
+- les polémiques：争议论战
+- les protagonistes：主要参与者
+- la figure：形象
+- du bien-pensant：政治正确者
+- le censeur：审查者
+- les divergences：差异
+- les prétentions：企图
+- la menace de violence：暴力威胁
+- la peur：恐惧
+- le consensus：共识，主流意见
+- consignes de sécurité：安全指示 / 安全须知,
+- drones：无人机
+- infraction：违法违规
+- les centrales nucléaires：核电站
+- terrains militaires：军事场地
+- monuments historiques：历史古迹
+- des aérodromes：机场
+- le survol：飞越
+- l’affluence：人流量，客流量，到访人数很多
+- la main-d’œuvre：劳动力
+- la rupture：崩溃
+- La sécurité sociale：社会保障体系
+- dévouement：奉献，投入，尽责精神
+- le corps：身体
+- rassembleur：善于凝聚人心的；凝聚型人物
+- mobilisateur：动员者、推动者
+- la vitalité culturelle：文化活力
+- relance：重启，复苏，重新启动
+- l'élevage intensif：集约化农业
+- viandard：肉食爱好者
+- rapport：报告
+- du chlore：氯
+- du plomb：铅
+- du nickel：镍
+- les instituteurs：小学老师
+- un composant：成分
+- une lésion：损伤，病变。
+- maladies génétiques：遗传病
+- l'aluminium：铝
+- les campagnes alentour：周边乡村
+- le savoir et la connaissance：知识，学问
+- imprimés：印刷品
+- manuscrits：手稿
+- triporteur：三轮车
+- Le cardinal：红衣主教
+- la singularité：特点，独特之处
+- la banlieue：郊区
+- un panneau latéral：侧面板
+- un pont：桥；甲板
+- une aire de jeu：游戏区域
+- la cour arrière：后院
+- aspirants：有志者、申请者
+- une initiative：倡议
+- auteur：发起者
+- faux agents：假经纪人
+- les demandeurs d’emploi：求职者
+- hébergements：住宿
+- le personnel 通常是集合名词，表示“员工、人员”。
+- priorité：优先事项
+- cet impact：这种影响
+- une empreinte：足迹，脚印，痕迹，后续延伸为对环境的影响和痕迹
+- une empreinte digitale：指纹
+- une empreinte de pas：脚印
+- substances toxiques：有毒物质
+- des habits neufs：一些新衣服
+- habits：衣服
+- conséquence：后果，结果
+- prédisposition：倾向，易感性
+- une infection：感染
+- symptômes：症状
+- l’errance：漂泊，流浪
+- sans-abris：无家可归者
+- la conduite des réacteurs：反应堆的操作
+- la poterie：陶艺
+- marquant le terme de l'année：标志着这一年结束
+- le terme：la fin / l'achèvement
+- journée portes ouvertes：开放日
+- consultation médicale：医疗咨询 / 看诊
+- session d’information：信息说明会
+- la séance d'information：信息说明会
+- la prévention：预防
+- du rez-de-chaussée：一楼
+- Une valorisation accrue：更加重视，价值被提高
+- l’esprit d’équipe：团队精神
+- une tendance récente：近期趋势
+- joueurs vedettes：明星球员
+- le collectif：集体，团队整体
+- un salaire exorbitant：高的离谱的工资
+- l’altruisme：利他主义
+- cette initiative：这项举措
+- succession：遗产继承
+- leur dernière volonté：最后意愿
+- la rédaction：编辑
+- un testament：遗嘱
+- dysfonctionnement：故障，异常运作
+- implication：含义，影响，
+- un cadre：主管，干部
+- les pauses cigarettes：抽烟休息
+- Une perception d'injustice：一种不公平感
+- gendarmes：宪兵，警察
+- emballages：包装
+- la malbouffe：垃圾食品
+- le surpoids：超重问题
+- rejet：拒绝、排斥、反感
+- paresse：懒惰
+- un revenu modeste
+- soupçon：怀疑，嫌疑，比 doute更强
+- La délinquance：违法，不良行为
+- la scolarité：学业
+- d’analphabétisation：文盲
+- pertinence：相关性，恰当性
+- formation：培训，课程，教育项目
+- une centaine：大约一百
+- agglomération urbaine：城市聚集区，都市区，城区
+- pluies torrentielles：倾盆大雨
+- inondations：洪水
+- mégalopole：超大城市
+- mesure：测量，测量结果
+- satellite：卫星
+- Une meilleure représentation：代表性，参与度，能被看见的程度，地位
+- une pionnière：先驱，开拓者
+- fédération：联合会、协会
+- personnes à autonomie limitée：自主行动能力有限的人，类似行动不便者
+- fauteuil roulant：轮椅
+- navette：班车、接驳车、穿梭巴士
+- BCE：Banque centrale européenne
+- taux d’intérêt：利率
+- l'inflation：通货膨胀
+- une vague de chaleur：热浪
+- denrées：食品、商品，尤其常指粮食/生活物资
+- cherté de la vie：生活费用高、生活成本高
+- investiture：就职、任命
+- cruauté animale：对动物的残忍行为 / 虐待动物
+- repeuplement；种群恢复、重新放养、增殖
+- exaction：暴行、恶行、严重不当行为
+- subventions：补贴、资助
+- abattoir：屠宰场
+- inclusion：包容纳入，融入
+- précarité：不稳定，贫困
+- un écueil：陷阱
+- la cohésion d’équipe：团队凝聚力
+- récit：叙述，故事
+- reconnaissance：认可，承认，被看见
+- une vieille camionnette：一辆旧小货车 / 旧厢式车
+- la dévotion：奉献，献身精神
+- générosité：慷慨
+- envers：对于
+- approches ludiques：游戏化方法
+- un meilleur rendement：更好的产出、更高效率、更好绩效
+- intégration：融入，整合
+- distraction：娱乐，分心的事
+- démarche：做法，步骤，行动方式
+- la collaboration：合作，协作
+- prescription médicale：医疗处方
+- une croissance exponentielle：指数级增长，爆发式增长
+- les contaminations：污染，样本污染
+- l’interprétation des données：数据解读
+- des variations：差异
+- échantillons：样本
+- pétitions：请愿书
+- futilité：无足轻重，琐碎，没什么实际价值
+- une levée de boucliers：强烈反对、群起抗议
+- ses fonctionnaires：公务员
+- la pandémie：疫情
+- rattrapage：补考、补课、补修
+- une place de stationnement：停车位
+- une pénurie：缺乏
+- une mauvaise gestion：管理不善
+- le frelon：胡蜂 / 大黄蜂
+- une guêpe：黄蜂
+- une mutation：突变
+- une poupée：娃娃
+- tri：分类、分拣
+- une grosse araignée rouge：一只红色大蜘蛛
+- pattes：腿
+- dons：捐款
+- le terrible séisme：可怕的地震
+- le tremblement de terre：地震
+- projet phare：重点项目 / 标志性项目
+- la stratégie déployée：已经实施/部署的策略
+- l’argent comptant：现金
+- ce fléau：这个祸害、这个严重问题
+- sensibilisation：宣传教育，让人意识到问题。
+- appui：支持
+- autorités：政府/官方机构
+- frontières：边境
+- transaction：交易
+- atout：优势、强项。
+- La nature physique：实体性质
+- l’espace public：公共空间 / 公共生活场景
+- énormément d'avantages：巨大的优势
+- l'élimination：消亡
+- la mobilité électrique：电动汽车
+- matériaux de récupération：回收材料、再利用材料。
+- moyens de locomotion：交通工具，出行工具
+- l'atmosphère：大气层
+- contrée：地区、地方、国土，比较文学/正式的说法。
+- un sujet de curiosité：令人好奇的对象
+- tour opérateur：旅行社
+- déremboursement：取消医保报销 / 不再报销
+- une échéance logistique：一个物流时间安排 / 配送时间节点
+- la décision favorable de crédit：有利的信贷决定
+- justificatifs：证明材料
+- la réorientation：转去
+- une intervention：发言、干预、介入
+- la nature des investissements：投资的性质
+- planeur：滑翔机
+- parapente：滑翔伞
+- deltaplane：三角翼 / 悬挂滑翔
+- VTT：vélo tout terrain
+- pinceaux：画笔
+- la commodité：便利性
+- le manque d’espace：空间不足
+- intimité：隐私性
+- un tableau：画、图表、黑板
+- une tablette：平板电脑
+- les déviations：绕行路线 / 改道路线
+- la municipalité：市政府 / 市政当局
+- l'autorisation：授权书
+- problème sous-jacent：/ 深层问题 / 根本问题
+- essor de l’IA：AI的快速兴起
+- une aliénation：异化，削弱
+- biais cognitifs：认知偏见
+- une banalisation：普遍化，平常化
+- rapports interpersonnels：人际关系
+- une surestimation：高估
+- paradoxe écologique：生态悖论 / 环保上的矛盾现象
+- sa rentabilité nutritive：营养价值回报
+- substitution directe：直接替代
+- circuits exportateurs mondiaux：全球出口链条 / 国际出口渠道
+- une adhésion：支持，赞同，认同
+- perspectives：前景，可能的 发展方向
+- vigilance：警惕，谨慎，注意风险
+- réticence：犹豫，保留，抗拒
+- enjeux：问题，挑战，关键议题
+- dénonciation：谴责，揭露，批判
+- asymétrie：不对称，不平衡，指两边发展速度和力度不一样
+- innovation technologique：技术创新
+- régulation：监管，规范，调控
+- obsolescence：过时，淘汰
+- dispositifs：装置，设备，系统
+- généralisation：普及，广泛化
+- enthousiasme：热情，积极态度
+- posture：立场，态度
+- admiration：欣赏，赞赏
+- scepticisme：怀疑态度
+- focalisation：聚焦，关注
+- une redistribution：再分配
+- bénéfices économiques：经济收益，经济好处
+- revitalisation：复兴，重新激活，重新发展
+- une valorisation：重视，肯定，正面评价
+- retombées économiques：经济收益，经济影响
+- minimisation：轻描淡写，淡化，低估
+- réformes
+- homogénéisation：同质化，变得一样
+- promesses：承诺，许诺
+- vos déplacements：你们的出行 / 移动安排
+- gants de jardinage：园艺手套
+- potager：菜园 / 蔬菜园
+- deux plats du jour：两份今日菜 / 今日套餐
+- plaintes répétées：反复的投诉
+- les travaux de construction：建筑施工 / 施工工程
+- les nuisances sonores：噪音干扰 / 噪音污染
+- nuisances：干扰，妨害
+- la carte interactive：互动地图
+- les points encore disponibles：仍然可用的点位 / 站点
+- l’aérogare：航站楼
+- le tarmac：机场停机坪
+- le chauffeur：司机
+- la banquette arrière：后排座椅 / 后座
+- les embouteillages：堵车，交通拥堵
+- le boulot：工作，比较口语
+- un arrêt provisoire：临时公交站
+- le précédent arrêt：之前的车站
+- la réalisation de：的实施，进行，完成
+- un inventaire：盘点，清点
+- le serveur de l’entreprise
+- un problème urgent：一个紧急的麻烦问题
+- la procédure de retour：退货流程
+- des conseils logistiques：物流建议
+- logistiques：物流；后勤；运输与配送安排
+- le conseil de quartier：街道委员会
+- les conditions du contrat：合同条件，合同条款
+- échange：交流
+- les frais：费用，收费，开支
+- une rafale de vent：阵风
+- le feu d'artifice：烟火
+- le son à fond：把音量开到最大
+- suspension：暂停
+- soins：护理，治疗
+- recalibrage：重新校准
+- une plage de 2 heures：一个两小时的时段
+- la direction de la sécurité aérienne：航空安全管理部门
+- des protocoles supplémentaires：额外的程序或规定
+- une menace locale：本地威胁
+- le flux：流量、人流
+- le stockage：存储
+- la manipulation：拿取、翻阅、操作
+- consommation：能源，电力消耗
+- incitations：奖励、激励措施
+- coupures：停电、中断
+- rationnement：配给、限量供应
+- uniforme：制服、校服
+- directive：规定、指导方针
+- une panne du réseau：网络故障、网络中断
+
+## 四、副词
+
+- poliment：礼貌地
+- dedans：在里面
+- partout：到处
+- pourtant：然而
+- ainsi：因此
+- puisque：因为既然
+- simultanément：同时
+- uniquement：仅仅
+- indirectement：间接
+- passivement：被动地
+- néanmoins：然而不过
+- particulièrement：尤其是
+- voire：甚至
+- surtout：尤其是
+- presque：几乎，差不多
+- finalement：实际上，归根结底
+- assez rarement：相当少见
+- chimiquement：通过化学方式
+- étonnamment：令人惊讶地
+- paradoxalement：反而
+- parmi：在……一堆中
+- autrefois：从前，以前，过去
+- significativement：显著地
+- désormais：从今以后，如今，现在已经；从现在开始，如今，今后
+- autrement：否则，要不然
+- exceptionnellement：例外地；在特殊情况下
+- attentivement：仔细地、认真地
+
+## 五、形容词
+
+- emballant：令人兴奋的、吸引人的、让人充满热情的
+- minoritaire：处于少数地位的
+- Unilatéral / Unilatérale：单方面的、单边的unilatéral 是阳性形式，unilatérale 是阴性形式。；例：Une décision unilatérale.单方面作出的决定。
+- folles：疯狂的、荒谬的
+- épuisée：筋疲力尽
+- audacieux：大胆的，有创新精神的
+- évocateur / évocatrice：富有感染力的
+- moindre：较小的；最轻微的
+- spacieux：宽敞的
+- clair：明亮的
+- embêtant：令人烦恼的
+- accueillant：热情友好的
+- froid：冷淡的
+- drôle：有趣的
+- proches：亲近的
+- amicale：友好的
+- superficielles：表面的
+- neutre：中立的
+- conviviales：融洽的
+- divertissant：有趣的，娱乐性的，让人开心的。
+- violent：强烈的，猛烈的
+- sauvage：野生的
+- brève：短暂的
+- Résiliente：有韧性的
+- Épidermique：敏感的，容易激动的，情绪化，反应过度的
+- Croyante：有宗教信仰的
+- Défaitiste：失败主义的，悲观放弃的
+- imprévisible：不可预测的
+- explosive：爆炸性的
+- impétueuse：冲动的，热烈的
+- emmerdeuse：麻烦的人，让人头疼的人，难搞的人
+- maltraité：受虐待的、被不当对待的
+- permanente：长期的
+- collégial：合作的
+- encourageant：令人鼓舞的
+- présentable：得体的，体面的
+- griffé：带有名牌标记的
+- crucial：至关重要
+- suranné：过时的，陈旧的
+- lassant：令人厌烦的
+- récurrente：反复出现的，经常重复的
+- immoral：不道德的
+- hérétique：异端的
+- insultant：侮辱性的，冒犯性的
+- consacrés：被尊崇，最神圣的
+- hégémoniques：霸权的
+- volant：飞行的
+- consultable：可以查询，可以查看
+- qualifiée：有资质的
+- distinctive：独特的
+- avant-garde：走在前沿
+- attentifs：留意关注
+- courtois：有礼貌的、谦恭的
+- exempts de：不含…的
+- acharnée：激烈的、顽强的、不懈的
+- attribués：被分配的
+- adopté：领养的
+- insolite：不寻常的，奇特的，少见的
+- latéral：侧面的
+- panoramique：全景的
+- malléable：可塑的、易塑形的
+- robuste / solide：坚固的
+- non recyclable：不可以回收的
+- inoffensif：无害的；无害的、不危险的。
+- abusive：过度的
+- incontournable：不可避免的
+- semblable：相似的
+- itinérante：流动的
+- immunitaire：免疫的
+- défavorables：不赞成的
+- délicate：棘手，敏感
+- significative：重大的
+- désespérés：绝望的
+- rase：空旷的
+- endeuillé：陷入哀伤的 / 遭遇不幸的
+- modeste：谦虚的，不高的，普通的
+- radicales：激进的、根本性的
+- d’élevage：养殖
+- préoccupante：令人担忧的
+- surpeuplées：人口众多的
+- omniprésentes：到处都是
+- modérées：温和的
+- abordable：价格可承担的
+- attendu / attendue：被期待的
+- courant / courante：常见的、日常的、普通的
+- incriminé：被指控的、涉事的
+- prometteur：有前途的、有希望的
+- ambulant：流动的
+- remarquable：出色的，值得注意的
+- accessible：触手可及；可以到达的，可以进入的，可以使用的
+- reculé(e)：偏远的
+- onéreux / onéreuse：昂贵的，费用高的
+- durable：长期的
+- véritable：真正的
+- temporaire：暂时的
+- stratégique：战略性的
+- dubitatifs：怀疑的，持保留态度的
+- précis：准确的，精确的
+- dérisoire：微不足道的、少得可怜的
+- inestimable：无价的，极其宝贵的
+- coordonnée：协调一致的
+- poignant：感人的，令人动容的
+- saisissant：震撼的，引人注目的
+- précieuses ：珍贵的
+- altruiste：无私的人，利他主义者，热心公益的人
+- participative：参与式的
+- tumultueux：混乱的、动荡的、不安定的
+- articulé：有关节的、可活动的
+- indigène：本地的
+- intimidant：令人害怕的、有威慑感的
+- effectif：生效的、实际执行的
+- virulent：激烈的、猛烈的、措辞强硬的
+- inoccupés：空置的
+- vacant：空着的、未使用的
+- enthousiaste：热情的、积极的
+- agronomiques：农学的，农业技术的
+- hydriques：水文的，水的
+- nuancée：有细微差别的，不绝对的，不完全支持，不完全反对，比较平衡
+- manifeste：明显的，显而易见的
+- appuyée：强烈的，有力的
+- agricoles：农业的
+- conventionnels：传统的，常规的
+- éthique：伦理的，道德层面的
+- immersifs：沉浸式的
+- récréatifs：娱乐性的，休闲的
+- ambivalente：矛盾的，双重的，既正面又有保留的
+- radical：彻底的，激进的，根本性的
+- potentiels：潜在的，可能的
+- exclusive：排他的，唯一的，只关注某一方面
+- affichées：公开展示的，宣称的
+- amplifiées：被放大的，被加剧的
+- équitable：公平的
+- homogène：均衡的，一致的
+- marginalisées：边缘化，弱势的
+- territoriales：地域的，地区空间层面的
+- amorcées：已经启动的，已经开始的
+- structurelles：结构性的，系统性的
+- ambitieuses：有雄心的，规模大的，目标高的
+- sonore：声音的
+- définitive：永久的
+- endommagé：被损坏的
+- cassés：打碎的
+- joignable：可以联系的
+- intensifs：密集的，加强的
+- préventive：预防性的
+- légèrement prolongée：稍微延长的
+- spontanée：随意的、未经提前安排的
+- facultative：自愿的
+- proportionnels：按比例的
+- obligatoire：强制性的
+- temporairement indisponible：暂时不可用

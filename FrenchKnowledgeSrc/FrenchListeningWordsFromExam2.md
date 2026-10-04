@@ -1,0 +1,755 @@
+# 法语听力真题词汇分类（二）
+
+> 按词性与用途分为五类。已统一格式、合并重复词条，并修正明显的拼写、词性和释义错误。
+
+## 快速导航
+
+- [常用词组](#一常用词组)
+- [动词](#二动词)
+- [名词](#三名词)
+- [副词](#四副词)
+- [形容词](#五形容词)
+
+---
+
+## 一、常用词组
+
+- sur le sable：在沙滩上
+- tenir quelqu’un éveillé：让某人保持清醒
+- coordonner directement avec les superviseurs infirmiers：与护理主管协调
+- mettre en œuvre：实施、执行
+- avec effet immédiat：立即生效
+- découler de：源于、由……导致
+- Cela découle de A et non de B.；这是由于 A，而不是由于 B。
+- avant l’embarquement：登机前
+- à l’étranger：在国外
+- refléter des considérations de préservation：反映出对保存、保护的考虑
+- se déplacer en personne：亲自前往
+- demander des extraits numérisés：申请数字化节选
+- sous réserve de：以……为条件，须经过……
+- l’examen des conservateurs：馆藏管理员的审核
+- en échange de：以……作为交换
+- pendant cet intervalle：在这段时间内
+- être admissible à：有资格获得
+- relatif à：与……有关的
+- entrer en vigueur：生效，开始实施
+- consulter l’avis：查阅通知
+- assurer la conformité：确保符合规定
+- affecter la disponibilité：影响可用性
+- avertir de：警告、提醒……
+- vanne souterraine：地下阀门
+- remise en service：重新投入使用、恢复运行
+- avoir le droit de faire quelque chose：有权做某事
+- posséder un animal：饲养 / 拥有动物
+- prendre soin de：照顾
+- punir tout le monde pour les erreurs de quelques-uns：因为少数人的错误而惩罚所有人
+- maintenir l’accès au système：保持系统访问权限
+- constater que：发现、注意到
+- comme indiqué précédemment 如之前所说明的
+- apporter tous les documents requis 带上所有要求的文件
+- en cas de circonstances imprévues 如果发生意外情况 / 不可预见的情况
+- L’événement a été reporté indéfiniment.
+- nombre limité de places：名额有限
+- abandonner leurs compagnons：遗弃他们的宠物伙伴
+- sans exception：无一例外
+- passer chercher qqn：过来找某人
+- juste pour te prévenir：只是提醒你一下 / 跟你说一声
+- portail sécurisé：安全网站、加密在线门户
+- faire une tentative：进行一次尝试
+- gel prolongé：持续性霜冻
+- au remboursement：获得报销
+- à partir du mois prochain：从……开始
+- lors de：在……期间 / 在……时
+- plutôt que de + 动词原形 而不是……
+- avec succès：成功地
+- solde de points：积分余额
+- plutôt que：而不是…… / 与其……不如……
+- dans votre secteur：在您所在的区域
+- rencontrer des problèmes：仍然遇到问题
+- par les voies appropriées：通过适当的渠道
+- revoir votre soumission：重新检视您提交的内容
+- apporter les corrections nécessaires：做出必要的修改
+- ajouter des sujets：增加议题
+- examiner les points présentés：查看、审阅所列出的事项
+- l’ordre du jour：议程、会议议题
+- récupérer une commande：领取订单
+- passer à：转换为、改用
+- utilisant des capteurs de proximité：使用距离感应器 / 接近传感器。
+- limite de retrait：取款限额
+- demeurer inchangé：保持不变
+- prendre en compte：考虑、计入
+- soumettre une demande：提交申请
+- délai d’approbation：审批时限、批准所需时间
+- rester identique：保持不变
+- mise en place：实施、建立、启用
+- envisager de + 动词原形：考虑做某事 / 打算做某事
+- rendre / restituer：归还
+- au raisin：葡萄味的
+- renouveler votre adhésion：续订会员资格 / 续会员
+- des navettes circuleront：将有接驳车运行
+- prévoir suffisamment de temps：预留足够时间
+- à une date ultérieure：推迟到之后的某个日期
+- concilier A et B：兼顾 A 和 B / 调和 A 和 B
+- était tombée en panne：抛锚，坏了
+- à court de carburant：燃油不足
+- au lieu d’être ramassé chaque semaine：而不是每周一次
+- visant à：旨在…… vise à
+- pataugeoire pour enfants：儿童浅水池 / 儿童戏水池
+- demeureront accessibles：将继续开放、仍然可以使用
+- souhaitant réserver une place：希望预留一个名额
+- sont encouragées à soumettre leur demande：被鼓励提交申请
+- tout au long du mois：整个月期间、贯穿整个月
+- travaux d’élagage：树木修剪工作
+- respecter les panneaux de signalisation：遵守指示牌
+- emprunter les itinéraires de remplacement：使用替代路线、绕行路线
+- Il n’y a aucune raison de s’inquiéter à ce stade.：现阶段没有必要担心
+- l’échelle de la ville：城市的规模
+- enregistrer des bagages：托运办理
+- dépasser la limite de poids autorisée：超重
+- répartir certains articles：把某些物品分开放
+- acheter une franchise de bagage supplémentaire：购买行李额度
+- sembler attrayant：看起来有吸引力
+- assumer le coût：承担费用 / 买单
+- justifier une telle politique：证明这种政策是合理的
+- durant l’entracte：在中场休息期间
+- comme d’hab：comme d’habitude，跟平常一样
+- tant pis pour lui：随他去吧
+- être à votre disposition：供您使用
+- ça valait la peine d’attendre !：等待是值得的
+- demande de congé：休假申请
+- Merci encore de t’être proposée ! 再次谢谢你主动提出帮忙！
+- de nouveau laissé le frigo ouvert.：又一次把冰箱开着
+- l’incident de paiement：付款问题，支付异常
+- joindre quelqu’un：联系到某人
+- à encadrer：需要监管、规范、设定框架
+- obliger les gens à s'engager：强迫人们参军 / 强迫人们加入军队
+- plein de：很多，非常口语
+- être persuadé/persuadée que…：坚信……
+- obliger les gens：强迫人们
+- De toute façon：无论如何
+- sans réfléchir à deux fois：不再三考虑 / 毫不犹豫
+- avoir horreur de quelque chose：非常讨厌 / 极其厌恶某物
+- avoir un avis sur quelque chose：对某事有观点
+- quoi que ce soit：任何事情 / 任何话
+- tant que：只要……
+- la terre est plate：地球是平的
+- apprendre quelque chose à quelqu’un：教某人某事
+- enseigner quelque chose à quelqu’un
+- c’est n’importe quoi：这太荒唐了 / 这太离谱了 / 这完全不像话
+- comme prévu ：如预期一样
+- En tous cas：不管怎样 / 总之
+- travailler à distance：远程工作
+- mettre quelqu’un en arrêt maladie：让某人处于病假状态
+- devine quoi：你猜怎么样？
+- se diriger vers + 地点：朝某地走去，前往某地
+- dans un quart d’heure：15 分钟之后
+- l’autre plat：另一个菜
+- changer d’avis：改变主意
+- au départ：开始的时候
+- plus que 3 h：只剩 3 小时
+- se rendre à + 地点：前往某地。
+- veiller au respect de cette règle：确保这条规则被遵守
+- assister à la réunion：参加会议
+- assister à：参加… 会议/活动
+- le soleil brillera
+- des nuages arriveront dans l’après-midi avec un peu de pluie
+- diriger vers la caisse：引导到收银台 / 指引去结账处
+- Suivez les flèches：请跟随箭头 / 按箭头指示走
+- notre collection permanente：我们的常设收藏 / 常设展览
+- emprunter une route：走某条路
+- Votre verdict ?：您的评价是什么？／您觉得怎么样？
+- L’histoire est bien menée：故事推进得很好，叙事很流畅
+- avec un temps pareil：天气这么好／在这样的天气下
+- recharger les batteries：补充能量、恢复精力
+- consommer des produits trop sucrés：食用含糖量过高的食品
+- privilégier quelque chose：优先选择某物
+- La matinée sera marquée par des averses.：上午将以降雨为主
+- être marqué par…：以……为主要特征
+- de belles éclaircies：明显的晴朗间歇、云层散开后出现阳光
+- faire son retour：重新出现、回归；回归、再次出现
+- au rayon fruits et légumes：在水果蔬菜区
+- à un prix incroyable：价格非常惊人、非常便宜
+- Vous êtes bien sur le répondeur de…：您确实拨到了……的电话答录机
+- Fermeture des caisses：售票处关闭
+- Les températures seront douces. 气温将比较温和、舒适，不冷也不太热。
+- le ciel est gris 天空灰蒙蒙的，也就是阴天。
+- faire un premier planning：制订初步计划
+- répartir les tâches：分配任务
+- s’y mettre tout de suite：马上着手开始
+- ça devrait aller：应该没问题／应该能行
+- prendre du retard：落后于进度、出现延误
+- venir de faire quelque chose：刚刚做了……
+- Je suis dégoûté(e) 经常表示：我太失望了。
+- Ça ne me dérange pas.：我不介意。
+- être déçu(e) 感到失望
+- de mon côté 我这边、就我而言、从我这方面来说
+- J’aimerais bien… 我挺想……／我想……
+- jeter un œil à quelque chose 看一眼、快速查看
+- se former dessus：针对它进行培训
+- avoir hâte de + 动词原形：迫不及待想做某事
+- être privé de… 被剥夺……／没有……可用
+- pour rétablir la situation：为了恢复正常状况
+- avec cet ajout：随着这次新增 / 加上新增部分
+- espérer + 动词原形：希望做……
+- être terminé(e)：结束了、完成了
+- changer une pièce：更换零件
+- devoir finir beaucoup plus tard que prévu：不得不比计划晚很多才完成
+- Ça m’embête vraiment.：这使我烦恼
+- embêter quelqu’un：使某人烦恼、困扰某人
+- à propos de + 名词：关于……
+- Le délai est serré.：工期很紧。
+- tenir quelque chose：拿着、握住
+- se tenir quelque part：位于／在某处举行
+- Au programme ：：活动安排包括：
+- se mettre à la place de quelqu’un：设身处地站在某人的角度
+- Il suffit de faire quelque chose. 只要做某事就可以了。
+- Je comprends tout à fait ton inquiétude. 我完全理解你的担忧。
+- Il n’y a aucun souci à se faire.：完全没有什么可以担心的
+- mettre quelque chose à disposition：提供某物使用
+- laisser mijoter：让食物用小火慢炖
+- à feu doux：用小火
+- développer les saveurs：激发、形成丰富的味道
+- Passons à + 名词：让我们进入……／接下来谈谈……
+- Après une journée de jeudi plutôt grise…：在经历一个较为阴沉的周四之后
+- s’attendre à + 名词/动词原形：预料、预计、做好……的准备；预料、期待……
+- un risque d’orages est à prévoir：预计有雷暴的风险
+- être inquiet pour…：为……感到担忧
+- faire une balade：去散步
+- ravir quelqu’un：使某人非常高兴
+- Il s’agit de + 名词：这是……／涉及的是……／说的是……
+- éviter le secteur：避开这个区域／路段
+- tenir informé(s)：保持知情的
+- Composer le numéro de la salle：输入展厅号码
+- être partagé(e)：感到纠结、对一件事有褒有贬
+- au démarrage：启动时、在启动阶段
+- charger un fichier：加载文件
+- dans quinze minutes：15分钟之后
+- pendant quinze minutes：持续15分钟
+- il y a quinze minutes：15分钟前
+- prier quelqu’un de faire quelque chose：请求某人做某事
+- conclure votre visite；结束您的参观
+- se diriger vers la sortie：朝出口走去
+- enlever les feuilles mortes：去除枯叶
+- aérer la terre；翻松土壤，使空气进入
+- aérer une pièce：给房间通风
+- être compatible avec：与……兼容
+- recevoir une formation：接受培训
+- avoir l’air + 形容词：看起来……
+- avoir une formation：接受培训
+- perdre en productivité：生产效率下降
+- se retrouver perdu：陷入迷茫、不知所措
+- être consacré à：致力于、专门介绍、以……为主题
+- avoir quelque chose à faire：有某件事情要做／有某物可以……
+- cuisiner davantage：多做饭
+- être bondé：非常拥挤、挤满人的
+- cuisiner soi-même autant que possible
+- lancer une campagne：发起一项宣传活动
+- intitulée « … »：名为……的
+- sensibiliser quelqu’un à quelque chose：提高某人对某事的认识
+- sur un bilan mitigé：结果喜忧参半、成绩好坏参半
+- espérer l’adoption de…：期待……获得通过
+- exclusivement dédié à…：专门用于……
+- contraindre quelqu’un à faire quelque chose：迫使某人做某事。
+- déconnecter mentalement
+- arriver à + 动词原形 成功做到……／设法做到……
+- subir un nouveau délai：再次遭遇延误
+- être favorable à + 名词：支持、赞成……
+- l’instauration de…：……的建立、实施
+- Le Petit Bouchon était complet：小酒馆已经订满了
+- décaler quelque chose：调整、推迟某事
+- garder le contact avec quelqu’un：与某人保持关系
+- tiré par les cheveux：不自然，牵强附会
+- Rien n’avait de sens. 什么都说不通／完全没有逻辑。
+- mener quelqu’un en bateau：欺骗、糊弄某人，让某人误以为事情会朝某个方向发展。
+- un scénario doit être cohérent：剧本必须逻辑连贯
+- tenir la route：合理，经得起 推敲
+- tout juste 在这里表示“刚刚”：
+- avoir un souci：遇到问题
+- revoir sa copie：重新考虑计划
+- remanier la proposition technique：重做技术方案
+- transforme le visage de quartiers populaires：改变平民社区面貌的现象
+- analyser un processus：分析一个过程或者现象
+- à double tranchant：双刃剑
+- entraîner quelque chose 导致、引起某种结果。
+- en périphérie：城市外围
+- faire confiance à quelqu’un 信任某人
+- se mesurer en… 以……作为衡量单位。
+- être en jeu：处于风险之中
+- attirer les talents：吸引人才
+- organiser des séminaires：组织研讨会
+- résider dans…：在于……、存在于……
+- appartenir à quelqu’un：属于某人
+
+## 二、动词
+
+- externaliser：外包
+- imposer：强制实施
+- résilier：取消、终止合同或服务
+- exiger：强制要求
+- confirmer：确认
+- reporter：推迟
+- planifier：计划、安排
+- retirer：拿走，移除，取出，撤掉
+- réviser：复习；修改、调整、重新审查
+- aboutir：成功；最终导致、通向
+- fournir：提供、供应、供给
+- verrouiller：锁住
+- interpréter：饰演、演绎；解释
+- prolonger：延长
+- rediriger：重新引导、改道；改寄、转寄、重新导向
+- franchir：跨过、通过
+- demeurer：仍然、保持
+- comprendre：包含
+- restreindre：限制
+- relever：发现、注意到
+- envisager：考虑，设想
+- retrouver：找到、找回
+- réclamer：认领、索取、要求拿回/提出认领要求
+- récupérer：取回、拿回 / 实际行动
+- soumettre：提交、递交
+- attribuer：分配、安排
+- charger：充电、装载
+- déposer：放置、投递
+- emprunter：借用，走某条路线
+- facturer：开账单、收费
+- bosser：工作，干活，口语
+- rater：错过
+- circuler：走动，巡视
+- épargner：使……幸免 / 放过
+- veiller：留意，照看，确保，监督
+- mener：带领，推进
+- amener：把某人带来
+- emmener：把某人带走
+- s’enfermer：待在室内不出去
+- se rattraper：补上、追上、弥补
+- deviner：猜，猜到
+- déranger：打扰，妨碍，使不舒服
+- ralentir：使变慢、拖慢
+- balayer：清扫，扫地
+- atteindre：达到
+- se tenir：举行、举办
+- désinfecter：消毒
+- mijoter：用小火慢炖
+- grimper：攀爬，上升，攀升
+- rendre：提交，交付
+- impliquer：牵涉、涉及
+- perturber：扰乱、干扰
+- tenir：保持（nous tiendrons：我们将保持）
+- conclure：结束、完成
+- aérer：使空气流通、通风
+- se poursuivre：继续、持续
+- s’achever：结束、落幕
+- éradiquer：根除、彻底消除
+- échouer：失败
+- compenser：弥补、抵消
+- subir：遭受、承受
+- fuir：泄漏、漏水
+- se dissoudre：溶解
+- secouer：摇动，冲击
+
+## 三、名词
+
+- admission de patients：接收病人、病人入院
+- suspension：暂停
+- accès réduit：限制进入、缩短开放时间
+- soins intensifs：重症监护
+- soins：护理，治疗
+- maladie contagieuse：传染病
+- recalibrage：重新校准
+- unités non critiques：非重症病区
+- une plage de 2 heures：一个两小时的时段
+- la direction de la sécurité aérienne：航空安全管理部门
+- des protocoles supplémentaires：额外的程序或规定
+- inspection des bagages：行李检查
+- normes révisées：修订后的标准
+- une menace locale：本地威胁
+- le flux：流量、人流
+- ajustement du flux：人流调节、客流调整
+- forte affluence：人流密集、客流高峰
+- le stockage：存储
+- les manuscrits：手稿
+- la manipulation：拿取、翻阅、操作
+- documents rares：珍贵文献、稀有资料
+- variations d’humidité：湿度变化
+- armoires à climat contrôlé：恒温恒湿保存柜
+- collections contemporaines：现代藏书
+- privilèges d’emprunt：借阅权限
+- consommation：能源，电力消耗
+- incitations：奖励、激励措施
+- coupures d’électricité：停电
+- tranches horaires：不同时间段
+- coupures：停电、中断
+- crédits de facturation：账单抵扣、账单优惠
+- rationnement：配给、限量供应
+- l’approvisionnement de base：基本电力供应
+- un uniforme：制服、校服
+- directive：规定、指导方针；指令、规定、指导方针
+- nouveau trimestre：在新学期
+- maintenance planifiée：计划内维护，定期维护
+- une panne du réseau：网络故障、网络中断
+- intrigues：情节、故事线
+- fluctuation de pression：压力波动
+- décoloration：颜色异常、变色
+- approvisionnement en eau：供水
+- les propriétaires responsables：负责任的宠物主人
+- les heures désignées：指定的时间
+- un ajustement du personnel：人员安排调整
+- des impôts massifs：巨大额度税款
+- l’autonomie：自主、自立
+- un litige：争议、纠纷
+- la facturation：计费、开具账单；计费、开账单
+- un litige de facturation：账单或收费纠纷
+- le fournisseur：供应商、服务提供商
+- une violation：违反、违规行为
+- une enquête：调查
+- la conduite：行为举止
+- la consultation：查看、查阅
+- la validation：确认、批准、验证
+- un formulaire de disponibilité：可用时间表
+- une plage horaire：时间段
+- un coursier：快递员、送件员
+- une signature：签名
+- un tableau：板、图、表、公告栏
+- un automobiliste：驾驶者、开车的人
+- un permis de conduire：驾驶执照
+- rendez-vous en personne：现场预约、线下办理
+- comptage：计量、统计用量
+- frais de pénalité：处罚费用
+- dispositifs avancés：先进设备
+- créneau：时间段，预约时段，时间窗口；时间段、时间档
+- adhésion：会员资格、加入某个组织或服务
+- modalités：具体规定、实施方式、条款细节
+- disposition：安排，布置，排列，条款，规定
+- un scénario：剧本、剧情；剧情、剧本
+- le remplacement d’un interprète：更换了一名演员 / 表演者
+- interprète：演员、表演者
+- remplacement：替换、更换
+- la doublure：替补演员、替身
+- l’acteur principal：主演
+- contraintes imprévues de calendrier：突发的档期问题
+- Les températures nocturnes：夜间气温
+- les cultures vulnérables：容易受到伤害的作物
+- l’apparence：外表
+- un pied：脚
+- une approbation：批准、许可
+- les consultations médicales：医疗咨询、看诊
+- une préautorisation：预先授权、事前批准
+- une réclamation：这里不是“抱怨”，而是保险领域的“理赔申请”
+- l’admissibilité：资格、符合条件
+- l’étendue：范围、覆盖程度
+- la couverture：保险保障、保险覆盖范围
+- les conditions précédentes：之前的条件
+- cet ajustement：这项调整
+- la police：这里不是“警察”，而是“保险单、保单”
+- un schéma：方案、布局、模式
+- le marquage：标记、划线
+- une zone adjacente：临近的区域
+- un canal：频道、渠道
+- un déploiement plus large：更大范围的上线
+- les mises à jour suivantes：后续更新
+- une architecture de confidentialité：隐私保护架构
+- l’éclairage：照明，灯光
+- le ratio d’échange des points：积分兑换比例
+- des tableaux de conversion：兑换表
+- une intervention corrective：纠正性干预，事后补救
+- le prochain tirage：下一次印刷版本
+- des annexes statistiques：统计附录
+- données budgétaires：预算数据
+- les supports de formation：培训资料，课程材料
+- identifiants de connexion：登录账号、登录信息
+- l’alimentation électrique：电力供应
+- une incohérence：不一致、矛盾之处
+- les informations fournies：已经提供的信息
+- une discussion productive：一次富有成效的讨论
+- une demande de mise en pause：暂停服务的请求
+- entrepôt：仓库
+- une pièce d’identité valide：有效身份证件
+- frais de transaction：交易手续费
+- insertion de la carte：插入银行卡
+- exigences de présence：出勤要求
+- participation aux séminaires：参加研讨会/研讨课
+- influence la note finale：影响期末总成绩
+- indicateurs de participation：参与度指标
+- Les seuils d’absence：缺席次数的标准
+- grilles d’engagement structurées：结构化课堂参与度评分表
+- patrimoine：遗产
+- une autorisation：许可、批准
+- rappels automatiques：自动提醒
+- horaire：时间安排
+- séance：一节课、一次活动
+- d’ajustement d’espace：空间调整
+- nouvel emplacement：新地点
+- l’achèvement du service bénévole：志愿服务的完成
+- les tâches attribuées qui nécessitent un examen：需要考试或审核的指定任务
+- Le nouveau forfait：新套餐
+- un avis：通知
+- une option de mise à niveau disponible：一个可能升级的选项
+- un smoothie：冰沙、果昔
+- la myrtille：蓝莓
+- resurfaçage：翻新
+- les transferts：转乘、接驳
+- d’éventuelles affections：可能存在的疾病 / 潜在健康问题
+- la sensibilisation：提高认识、增强意识
+- la tension artérielle：血压
+- une consultation générale de bien-être：一般健康咨询
+- un indicateur：指标
+- une variation inattendue：意外变化、异常波动
+- expéditeur：寄件人、发件人、发送方
+- destinataire：收件人
+- un calendrier de formation：培训计划 / 培训日程
+- La mise en œuvre de mesures：措施的实施
+- des péages urbains：城市道路收费 / 拥堵费
+- les impératifs pratiques：现实中的实际需要 / 实际层面的必要条件
+- un mercredi sur deux：每隔一个星期三一次，也就是每两周一次
+- Des renseignements supplémentaires：更多信息
+- les matières recyclables：可回收物
+- le respect des normes de sécurité：遵守安全标准 / 符合安全规范
+- évaluations de sécurité：安全评估
+- l’abonnement：订阅、会员资格
+- l’expédition：寄送、货运、包裹运输
+- des procédures supplémentaires de vérification de la qualité：额外的质量检查程序
+- Service municipal des services publics：市政公共服务部门
+- modernisation：现代化改造
+- un relevé：记录、读数、报表
+- la précision des relevés：读数的准确性
+- un relevé bancaire：银行对账单
+- un relevé de compte：账户明细、银行流水
+- un relevé de notes：成绩单
+- franchise：特许额度
+- La suppression：取消
+- ordi：ordinateur，电脑，口语
+- rafraîchissements：小吃，茶点
+- encas：小吃
+- un chèque-cadeau：礼品卡
+- ma commande：我的订单
+- bus de remplacement：替代公交车
+- Une comédie romantique：浪漫喜剧
+- le film du siècle：世纪神作
+- courriel：email / 电子邮件
+- courrier：mail / postal mail / 邮寄信件
+- l’original：原件
+- immeuble：公寓楼，大楼
+- promotion：促销
+- les pâtes：意大利面 / 面食
+- une aubaine：一个好机会
+- agents de sécurité：安保人员
+- un boulot：一份工作
+- gestionnaires：管理人员 / 经理 / 管理者
+- le dossier de partenariat：合作文件
+- partenariat：partnership, 合作关系
+- des hippies：嬉皮士
+- extrémistes religieux：宗教极端分子
+- môme：孩子
+- le créationnisme：神创论
+- service militaire obligatoire：强制兵役
+- pacifiste：和平主义者
+- des tensions：紧张关系 / 冲突压力
+- une idée précise：具体想法 / 明确方案
+- là-dessus：对这件事 / 关于这个话题；关于这一点、在这方面
+- rocade：环城公路、绕城道路。
+- ce qui m’a le plus marquée：最令我印象深刻的是
+- la performance des deux acteurs principaux：两位主演的表演
+- incroyables de justesse et d’émotion：表演非常精准、真挚，充满感情
+- ce serait dommage de s’enfermer：一直闷在室内就太可惜了
+- le jeûne de la nuit：夜间的禁食期
+- l’erreur la plus fréquente：最常见的错误
+- les céréales industrielles：工业加工的早餐麦片
+- les viennoiseries：法式甜酥面包、糕点
+- les flocons d’avoine：燕麦片
+- les bons glucides：优质碳水化合物
+- du mardi au dimanche：从周二到周日
+- l’échéance：截止日期、期限，相当于 deadline
+- un dossier à terminer 一份需要完成的材料；需要…的某物，有待…的某物
+- un problème à résoudre：一个需要解决的问题
+- un document à signer：一份需要签署的文件
+- du dernier trimestre 上一个季度的／上一季度的
+- des emballages plastiques 塑料包装
+- un temps fou：大量时间；大量时间！
+- la transition：过渡过程
+- des orages violents：雷暴，雷雨
+- accompagnés de rafales de vent 伴随着阵风
+- un foyer：家庭，住户
+- Les services d’urgence sont mobilisés… 应急部门已经出动／正在全力处理。
+- la mairie：市政府、市政当局
+- les déplacements doux：绿色、非机动车出行
+- les réparations：维修工作
+- les plaquettes de frein：刹车片
+- un imprévu：突发情况、意外安排
+- l’essentiel：最重要的内容、核心部分
+- une version préliminaire：初步版本
+- les gourmands：爱吃美食的人、美食爱好者
+- une dégustation：试吃、品鉴
+- la lecture：阅读
+- le cerveau：大脑
+- l’empathie：同理心、共情能力
+- un passe-temps：消遣、业余活动
+- l’esprit：思维、心智、精神
+- une manette：手柄
+- du gel hydroalcoolique：消毒液
+- une poignée：把手、门把手
+- l’ail：大蒜
+- d’herbes：香草
+- La partie analyse nous a pris plus de temps que prévu：分析部分花费了我们比预期更长的时间。
+- une initiative：活动，倡议
+- le réservoir d’eau situé à l’arrière：位于后方的水箱
+- la buse de distribution：出液口
+- le bouton de démarrage：启动按钮
+- les touches tactiles：触摸按键
+- Un point sur la circulation：播报交通路况
+- cet axe：主要道路，交通干线，路段
+- une déviation：绕行，改道；绕行路线
+- les commentaires：讲解
+- Des piles pour une télécommande：遥控器用的电池。
+- Une ampoule spécifique：灯泡，特殊型号
+- Un chargeur de téléphone portable.：手机充电器
+- Un adaptateur électrique.：电源适配器
+- La boutique：商店
+- une quiche：咸派
+- une salade composée：什锦沙拉
+- une mauvaise herbe：杂草
+- le déploiement：部署、推广上线
+- un seul conseil：唯一一个建议
+- ses propres repas：自己亲自准备的饭菜
+- les matières grasses：脂肪 油脂
+- les mauvaises graisses：不健康脂肪
+- la quantité de：……的数量
+- Le seul bémol：唯一的缺点
+- une heure de pointe：高峰时段
+- soi-même：自己
+- la consommation de produits transformés：加工食物的摄入
+- le tri：垃圾分类
+- des ateliers pédagogiques：教育性活动 / 教学工作坊
+- sommet environnemental：环境峰会
+- le seul véritable aboutissement：唯一真正的成果
+- engagement financier：财政承诺、资金承诺
+- une résolution contraignante：具有约束力的决议
+- épuisement：疲惫
+- une surcharge：工作过量
+- la porosité des espaces：界限的模糊
+- réticences：顾虑、保留意见
+- mais tu ne vois que le court terme：你只看到了短期收益
+- la saisie des données：数据录入
+- signalisation：信号
+- une défaillance technique：技术故障、系统失灵
+- intervention：处理，抢修
+- les intempéries：恶劣天气
+- la charge de travail：工作量、工作负担
+- une journée à rallonge：被拉得特别长的工作日
+- un plus ou un moins pour…：对……有利还是有害
+- la mise en scène permanente：持续地包装、展示自己的生活。
+- la course à…：对……的追逐、争夺。
+- course：跑步，赛跑，courir的名词形式
+- courses：复数形式，购物
+- cour：院子，庭院
+- cours：课程，货币流通
+- une pression sociale énorme：巨大的社会压力
+- une métaphore puissante：有力的，深刻的隐喻
+- la subtilité：深意
+- Mais enfin ! 拜托！／不是吧！
+- les contraintes budgétaires 预算限制／预算约束。
+- une réhabilitation de l’habitat：居住环境得到改善
+- le revers de la médaille：硬币的另一面
+- la spéculation immobilière 房地产投机。
+- une flambée 原意是火焰突然蹿升，引申为价格、病例等“暴涨、激增”。
+- une éviction progressive：逐渐被驱离
+- des familles modestes：平民阶层
+- un cadre：框架，规则体系，明确的制度
+- la présence：出席、到场
+- les échanges informels：非正式交流
+- un avantage concurrentiel：竞争优势
+- une visioconférence：视频会议
+- la spontanéité：自发性，自然发生的特点
+- un juste milieu：恰当的折中点、合理的平衡
+- les enjeux éthiques：伦理挑战
+- la disruption：结构性冲击
+- le nœud du problème：问题的症结，问题的核心
+- la remise en question：质疑、重新审视、重新考虑。
+
+## 四、副词
+
+- indéfiniment：无限期地
+- toutefois：但是；不过、然而
+- plus tôt：更早、之前
+- légèrement：轻微地、稍微地
+- temporairement：暂时地、临时地
+- désormais：现如今，已经；从现在起、如今
+- au préalable：事先、提前
+- le plus tôt possible：越快越好
+- définitivement：永久地、彻底地
+- honnêtement：说实话，坦白讲
+- bref：总而言之
+- particulièrement：尤其、特别地
+- au plus vite：尽快、以最快速度
+- exactement：确切地；究竟
+- constamment：持续地、不断地
+- plutôt：相当，比较，颇为
+- fortement：强烈地、严重地、大幅度地
+- partout：到处、任何地方
+- largement：大幅度地、绰绰有余地
+- initialement：最初、原本
+- inévitablement：不可避免地
+
+## 五、形容词
+
+- intensifs：密集的，加强的
+- préventive：预防性的
+- légèrement prolongée：稍微延长的
+- spontanée：随意的、未经提前安排的
+- facultative：自愿的；可选择的，非强制的
+- proportionnels：按比例的
+- obligatoire：强制性的；强制的、必须的
+- temporairement indisponible：暂时不可用
+- défaillant：有缺陷的
+- raccourci：缩短的
+- préalable：事先的、提前的
+- dédiée：专用的
+- opérationnelles：正常运转的
+- chiffré：加密的
+- multicouche：多层的
+- réajustés：被重新调整
+- accumulés：已经积累的
+- ultérieur：随后的
+- renouvelé automatiquement：自动续订
+- récupérée：可被领取的
+- précoce：早期的、尽早的
+- déchargée：没电的
+- mis à jour：已更新的、更新后的
+- relevé：抬高的、突出的、浓郁的
+- sympa：挺不错的
+- raisonnable：理智的，合理的
+- mitigé：复杂的 / 有好有坏的 / 褒贬不一的
+- indéniable：不可否认的
+- souple：灵活的 / 弹性的 / 柔和的 / 不死板的
+- plate：平的
+- touchant：非常感人
+- pareil：这样的；一样的、相同的。
+- un peu juste：有点紧、时间不太充裕
+- un peu prévisible：有点容易预测
+- bondé：非常拥挤
+- agité：动荡的、不平静的、剧烈的
+- prudente：谨慎的、稳妥的
+- concernant：关于……的、涉及……的
+- impliquant：涉及……的
+- fortement perturbée：严重受影响的
+- intuitif：直观的、无需太多学习就能使用的
+- lent：慢的
+- consistant：分量足，顶饱，能填饱肚子的
+- cohérent / constant：一致的、稳定的
+- performant：性能好的、高效的
+- pertinent：恰当的、有道理的、切中要害的
+- régional：本地区的、当地的
+- sain / saine：健康的
+- désagréable：令人不舒服的、不愉快的
+- modéré：温和的、有节制的
+- nuancé：细腻的、有保留的、不绝对的
+- partagé：褒贬不一的、矛盾的
+- contraignant / contraignante：有约束力的、强制性的
+- épuisés：精疲力尽
+- floue：模糊的
+- fausse：错误的
+- séduisant：有吸引力的
+- ambivalent：有利有弊
+- brutal：残酷的、剧烈的
+- idéaliste：理想主义的
+- colossal：极其巨大的
+- légitime：合理的
